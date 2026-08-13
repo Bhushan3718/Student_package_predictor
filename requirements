@@ -2,6 +2,6 @@ pandas
 numpy
 matplotlib
 seaborn
-sckit-learn
+scikit-learn
 streamlit
 joblib

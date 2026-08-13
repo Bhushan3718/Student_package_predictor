@@ -10,7 +10,7 @@ import pandas as pd
 # =========================================================
 
 st.set_page_config(
-    page_title="Package Prediction AI",
+    page_title=" Student Package Prediction",
     page_icon="🎯",
     layout="wide",
     initial_sidebar_state="expanded"
